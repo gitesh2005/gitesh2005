@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=gitesh2005&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gitesh2005&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
