@@ -11,7 +11,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=gitesh2005&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gitesh2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gitesh2005&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
