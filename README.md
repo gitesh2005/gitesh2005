@@ -1,18 +1,94 @@
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=header" width="100%"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=30&center=true&lines=Hello+Everyone+👋;
+    Welcome+to+My+Profile+💻; 
+    Let's+Build+Something+Great+🚀;" />
+</h1>
+
+<h1 align="center">Hi 👋, I'm Gitesh Sorout</h1>
+<h3 align="center">Full Stack Developer | B.Tech CSE Student | Problem Solver 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 # 💫 About Me:
-🔭 I'm currently working on Building a strong portfolio across Full Stack & Data Analytics — from e-commerce platforms to AI-powered hiring tools. Every project is a problem I actually wanted to solve.<br><br>👯 I'm looking to collaborate on Real-world full stack apps or data projects that ship — not just tutorial clones. If you're building something with Node.js, MongoDB, or need someone who can handle both backend logic and data, let's talk.<br><br>🤝 I'm looking for help with Going deeper into Data Analytics — advanced SQL, Python for data wrangling, building dashboards that actually tell a story, and understanding how to draw insights from messy real-world data.<br><br>🌱 I'm currently learning Python for data analysis, SQL at a deeper level, and Power BI/Tableau — while keeping my full stack roots sharp with JS, Express & MongoDB.<br><br>💬 Ask me about Building backend systems from scratch, role-based auth with JWT, REST API design, DSA in Java, competitive programming, or how I shipped a complete subscription + charity draw engine for a real client.<br><br>⚡ Fun fact I've shipped more working code at 2AM than in 8 business hours. Some of my best bugs were also my best teachers. 🧠
+💻 B.Tech CSE @ GLA University  
+🚀 Exploring Web Development & Backend Systems  
+🔥 Learning and improving in DSA (LeetCode)  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/git.eshsorout005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gitesh-sorout-146697289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giteshsorout@gmail.com)
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 🌐 Connect with Me:
 
-# 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=gitesh2005&theme=tokyonight&hide_border=true)
+<a href="https://www.linkedin.com/in/gitesh-sorout-146697289/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="mailto:giteshsorout@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gitesh2005&limit=5&theme=dark&combine_all_yearly_contributions=true)=
+# 🛠 Language and Tools:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Coding Profiles & Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/64yrbUHtGy/">
+    <img src="https://leetcard.jacoblin.cool/64yrbUHtGy?theme=dark&font=baloo" width="60%" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+
+---
+
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Turn+challenges....;into+opportunities.....;+with+code..." alt="Typing SVG"/>
+  </h1>
+</div>
+
+---
+
+## 🎯 Current Focus
+- Web Development  
+- Backend Development  
+
+---
+
+## 🚀 Goals (Next 6 Months)
+- Solve 300+ DSA problems  
+- Build 3–4 full stack projects  
+- Crack a good internship / product-based company  
+
+---
+
+<h3 align="center">⚡ "Turn challenges into opportunities with code."</h3>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=footer" width="100%"/>
+</p>
