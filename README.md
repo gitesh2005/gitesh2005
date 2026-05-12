@@ -56,7 +56,7 @@
 
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitesh2005&theme=dark&hide_border=true&stroke=FF7800&ring=FF7800&fire=FF7800&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=FF7800&sideLabels=58a6ff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gitesh2005&theme=dark&hide_border=true&stroke=FF7800&ring=FF7800&fire=FF7800&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=FF7800&sideLabels=58a6ff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
