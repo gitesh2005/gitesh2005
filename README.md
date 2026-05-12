@@ -1,9 +1,9 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=header" width="100%"/>
+  <img src="https://vercel.app" width="100%"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=30&center=true&lines=Hello+Everyone+👋;
+  <img src="https://herokuapp.com+👋;
     Welcome+to+My+Profile+💻; 
     Let's+Build+Something+Great+🚀;" />
 </h1>
@@ -12,7 +12,7 @@
 <h3 align="center">Full Stack Developer | B.Tech CSE Student | Problem Solver 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com" />
 </p>
 
 ---
@@ -26,35 +26,35 @@
 
 # 🌐 Connect with Me:
 
-<a href="https://www.linkedin.com/in/gitesh-sorout-146697289/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io"/>
 </a>
 
 <a href="mailto:giteshsorout@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://shields.io"/>
 </a>
 
 ---
 
 # 🛠 Language and Tools:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://shields.io)
+![HTML](https://shields.io)
+![CSS](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Node.js](https://shields.io)
+![Express.js](https://shields.io)
+![MongoDB](https://shields.io)
+![MySQL](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
 ## 📊 Coding Profiles & Stats
 
 <div align="center">
-  <a href="https://leetcode.com/u/64yrbUHtGy/">
-    <img src="https://leetcard.jacoblin.cool/64yrbUHtGy?theme=dark&font=baloo" width="60%" alt="LeetCode Stats" />
+  <a href="https://leetcode.com">
+    <img src="https://jacoblin.cool" width="60%" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -68,6 +68,13 @@
 
 ---
 
+<div align="center">
+  <h1>
+    <img src="https://herokuapp.com..." alt="Typing SVG"/>
+  </h1>
+</div>
+
+---
 
 ## 🎯 Current Focus
 - Web Development  
@@ -85,5 +92,5 @@
 <h3 align="center">⚡ "Turn challenges into opportunities with code."</h3>
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7800&height=100&section=footer" width="100%"/>
+  <img src="https://vercel.app" width="100%"/>
 </p>
