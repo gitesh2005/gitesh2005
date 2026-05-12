@@ -60,19 +60,14 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-
----
+## 🔥 GitHub Streak Stats
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Turn+challenges....;into+opportunities.....;+with+code..." alt="Typing SVG"/>
-  </h1>
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </div>
 
 ---
+
 
 ## 🎯 Current Focus
 - Web Development  
