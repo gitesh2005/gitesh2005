@@ -48,7 +48,7 @@
 ## 📊 Coding Profiles & Stats
 <div align="center">
   <a href="https://leetcode.com/u/64yrbUHtGy/">
-    <img src="https://leetcard.jacoblin.cool/64yrbUHtGy?theme=dark&font=baloo" width="60%" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=64yrbUHtGy&theme=dark" width="60%" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -56,7 +56,7 @@
 
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&stroke=FF7800&ring=FF7800&fire=FF7800&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=FF7800&sideLabels=58a6ff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitesh2005&theme=dark&hide_border=true&stroke=FF7800&ring=FF7800&fire=FF7800&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=FF7800&sideLabels=58a6ff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
