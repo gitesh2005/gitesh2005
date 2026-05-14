@@ -57,9 +57,8 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gitesh2005&theme=dark&hide_border=true&stroke=FF7800&ring=FF7800&fire=FF7800&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FF7800&sideLabels=58A6FF&dates=FFFFFF&v=21" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gitesh2005&theme=dark&hide_border=true&stroke=FF7800&ring=FF7800&fire=FF7800&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FF7800&sideLabels=58A6FF&dates=FFFFFF&v=500" alt="GitHub Streak" />
 </div>
-
 ---
 
 <div align="center">
