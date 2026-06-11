@@ -48,7 +48,7 @@
 ## 📊 Coding Profiles & Stats
 <div align="center">
   <a href="https://leetcode.com/u/chrishna_2005/">
-    <img src="https://leetcard.jacoblin.cool/64yrbUHtGy?theme=dark&font=baloo" width="60%" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/chrishna_2005?theme=dark&font=baloo" width="60%" alt="LeetCode Stats" />
   </a>
 </div>
 
